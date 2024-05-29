@@ -58,7 +58,7 @@ type "banner.txt"
 set /p comp=Enter computer name:
 shutdown /s /m \\%comp% /t 0
 pause
-goto loaclip
+goto localip
 
 
 :SBM
