@@ -1,5 +1,5 @@
 @echo off
-title ddosBOX - adixon23w
+title DoxKit - adixon23w
 mode 75, 30
 chcp 65001 >nul
 call powershell exit >nul
