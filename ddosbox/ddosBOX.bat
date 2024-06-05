@@ -16,7 +16,7 @@ echo.        Menu
 echo.      ---------
 echo.     1) Local IP
 echo.     2) SBM-BruteForce
-echo.     3) DDOS
+echo.     3) Ping
 echo.     4) Exit
 echo.
 set /p input=
